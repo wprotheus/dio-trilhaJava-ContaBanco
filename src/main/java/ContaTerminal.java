@@ -11,7 +11,7 @@ public class ContaTerminal {
         System.out.print("Digite o número da conta: ");
         numConta = sc.nextInt();
         sc.nextLine();
-        System.out.print("Digite o nome do conta: ");
+        System.out.print("Digite o nome da agência: ");
         nomeAgencia = sc.nextLine();
         System.out.print("Digite o nome do cliente: ");
         nomeCliente = sc.nextLine();
